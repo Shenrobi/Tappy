@@ -12,6 +12,7 @@
 		E4D95E911DC92864002D2AB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4D95E8F1DC92864002D2AB8 /* Main.storyboard */; };
 		E4D95E931DC92864002D2AB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4D95E921DC92864002D2AB8 /* Assets.xcassets */; };
 		E4D95E961DC92864002D2AB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4D95E941DC92864002D2AB8 /* LaunchScreen.storyboard */; };
+		E4D95E9E1DC92BDD002D2AB8 /* ObelixProB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4D95E9D1DC92BDD002D2AB8 /* ObelixProB.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E4D95E921DC92864002D2AB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4D95E951DC92864002D2AB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4D95E971DC92864002D2AB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4D95E9D1DC92BDD002D2AB8 /* ObelixProB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ObelixProB.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E4D95E921DC92864002D2AB8 /* Assets.xcassets */,
 				E4D95E941DC92864002D2AB8 /* LaunchScreen.storyboard */,
 				E4D95E971DC92864002D2AB8 /* Info.plist */,
+				E4D95E9D1DC92BDD002D2AB8 /* ObelixProB.ttf */,
 			);
 			path = Tappy;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4D95E9E1DC92BDD002D2AB8 /* ObelixProB.ttf in Resources */,
 				E4D95E961DC92864002D2AB8 /* LaunchScreen.storyboard in Resources */,
 				E4D95E931DC92864002D2AB8 /* Assets.xcassets in Resources */,
 				E4D95E911DC92864002D2AB8 /* Main.storyboard in Resources */,
